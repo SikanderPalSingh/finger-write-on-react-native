@@ -1,1 +1,22 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.18",
+    "expo-camera": "~13.2.1",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-gesture-handler": "~2.9.0",
+    "react-native-svg": "13.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
 
